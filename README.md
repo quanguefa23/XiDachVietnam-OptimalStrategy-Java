@@ -1,6 +1,4 @@
 # XiDachVietnam-OptimalStrategy-Java
- Project to find optimal strategy in Xi Dach Vietnam (different from BlackJack)
-
 Tết này chơi Xì Lát thua quá nên mình lên mạng nghiên cứu lại cách chơi, mình đã đọc qua bài viết Blackjack trên wikipedia: https://en.wikipedia.org/wiki/Blackjack#Basic_strategy
 
 Trên này có nói rất chi tiết về luật chơi cũng như hướng dẫn về basic & optimal strategy dựa theo xác suất thống kê. Nhưng mà, đọc một hồi mình mới nhận ra, luật chơi của Blackjack thực ra khác khá xa trò Xì Lát ở Việt Nam. Vậy nên ko có áp dụng optimal strategy này được.
